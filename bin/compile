@@ -4,7 +4,8 @@ echo "curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /app/yt/youtube-d
 curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /app/yt/youtube-dl
 echo "chmod a+rx /app/yt/youtube-dl"
 chmod a+rx /app/yt/youtube-dl
-pip3 install --upgrade pip ffmpeg pytube ffmpeg-python youtube_dl
+pip3 install --upgrade pip asyncio ffmpeg pytube ffmpeg-python youtube_dl
+pip3 install --upgrade git+https://github.com/bisoncorps/search-engine-parser google-api-python-client google-auth-httplib2 google-auth-oauthlib googletrans
 pip3 install --upgrade aiofiles aiohttp aria2p bs4 cowpy cryptg dialog-py dialogs dnspython emoji gitpython hachoir
 pip3 install --upgrade heroku heroku3 html-telegraph-poster instaloader jikanpy lxml motor natsort nekos.py oauth2client pillow pip psutil
 pip3 install --upgrade pybase64 pydownload pyfiglet pygithub pymediainfo pyrogram pysmartdl python-dateutil pythondialog python-dotenv python-git pytube pytz
