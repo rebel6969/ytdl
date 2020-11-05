@@ -11,4 +11,4 @@ pip3 install --upgrade aiofiles aiohttp aria2p bs4 cowpy cryptg dialog-py dialog
 pip3 install --upgrade heroku heroku3 html-telegraph-poster instaloader jikanpy lxml motor natsort nekos.py oauth2client pillow pip psutil requests requests-oauthlib
 pip3 install --upgrade pybase64 pydownload pyfiglet pygithub pymediainfo pyrogram pysmartdl python-dateutil pythondialog python-dotenv python-git pytz
 pip3 install --upgrade rarfile redis regex removebg selenium setuptools spamwatch speedtest-cli stagger telegraph tgcrypto urbandict wget wikipedia 
-pip3 install --upgrade ffmpeg yt-search youtube-search-python python-youtube fast-youtube-search ffmpeg-python youtube-search youtube-dl
+pip3 install --upgrade ffmpeg yt-search youtube-search-python python-youtube fast-youtube-search ffmpeg-python youtube-search ytmdl youtube-dl
