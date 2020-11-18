@@ -9,6 +9,6 @@ pip3 install --upgrade wheel asyncio ffmpeg pytube pytube3 ffmpeg-python youtube
 pip3 install --upgrade git+https://github.com/bisoncorps/search-engine-parser google-api-python-client google-auth-httplib2 google-auth-oauthlib googletrans
 pip3 install --upgrade aiofiles aiohttp aria2p bs4 cowpy cryptg dialog-py dialogs dnspython emoji gitpython hachoir python-magic lolcat settings-helper
 pip3 install --upgrade heroku heroku3 html-telegraph-poster instaloader jikanpy lxml motor natsort nekos.py oauth2client pillow pip psutil requests requests-oauthlib
-pip3 install --upgrade pybase64 pydownload pyfiglet pygithub pymediainfo pyrogram pysmartdl python-dateutil pythondialog python-dotenv python-git pytz streamlink
+pip3 install --upgrade pybase64 pydownload pyfiglet pygithub pymediainfo pyrogram pysmartdl python-dateutil pythondialog python-dotenv python-git pytz
 pip3 install --upgrade rarfile redis regex removebg selenium setuptools spamwatch speedtest-cli stagger telegraph tgcrypto urbandict wget wikipedia 
 pip3 install --upgrade ffmpeg yt-search youtube-search-python python-youtube fast-youtube-search ffmpeg-python youtube-search ytmdl youtube-dl
