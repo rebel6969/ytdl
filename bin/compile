@@ -5,4 +5,4 @@ curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /app/yt/youtube-dl
 echo "chmod a+rx /app/yt/youtube-dl"
 chmod a+rx /app/yt/youtube-dl
 pip3 install --upgrade pip wheel
-pip3 install --upgrade aria2p asyncio babel cryptg fast-youtube-search ffmpeg ffmpeg-python git+https://github.com/bisoncorps/search-engine-parser gitpython google-api-python-client google-auth-httplib2 google-auth-oauthlib googletrans heroku heroku3 html-telegraph-poster instaloader lxml oauth2client pillow pydownload pygithub pymediainfo pyrogram pysmartdl python-dateutil python-git python-magic python-utils python-youtube pytube pytube3 pytz rarfile redis regex removebg requests requests-oauthlib spamwatch speedtest-cli telegraph telethon tgcrypto urbandict wget wheel wikipedia youtube_dl youtube-dl youtube-search youtube-search-python ytmdl yt-search
+
